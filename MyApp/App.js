@@ -1,6 +1,7 @@
 import { StyleSheet, View, SafeAreaView } from 'react-native';
 import Header from "../MyApp/components/header"
 import Category from '../MyApp/components/categories';
+import OngoingTask from './components/ongoingtask';
 
 export default function App() {
   return (
@@ -8,6 +9,7 @@ export default function App() {
       <View style={styles.container}>
         <Header />
         <Category />
+        <OngoingTask />
       </View>
     </SafeAreaView>
   );
@@ -21,6 +23,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#f7f0e8',
+    padding: 20,
    },
 
 });
