@@ -33,4 +33,4 @@ A React Native application is designed to help users manage their tasks efficien
 
 ## Screenshots
 
-<img src="https://github.com/Dwamenachrist/rn-assignment3-11117559/assets/136202826/2453769a-ab2d-46c7-be2f-eaeaa5057fbd" width="250"> 
+<img src="https://github.com/Dwamenachrist/alx-higher_level_programming/assets/136202826/c5aaefbf-d72a-4d1a-9f4a-2d5255fca746" width="250"> 
