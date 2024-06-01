@@ -30,8 +30,6 @@ const styles = StyleSheet.create({
 	taskCount: {
 		fontSize: 16,
 	},
-	profileName:{
-	},
 	profileContainer: {
 		flexDirection: 'row',
 		marginLeft: 'auto',
