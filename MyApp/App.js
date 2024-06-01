@@ -1,14 +1,13 @@
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View, SafeAreaView } from 'react-native';
 import Header from "../MyApp/components/header"
-import Search from './components/searchBar';
+import Category from '../MyApp/components/categories';
 
 export default function App() {
   return (
     <SafeAreaView style={styles.safeArea}> 
       <View style={styles.container}>
         <Header />
-        <Search />
+        <Category />
       </View>
     </SafeAreaView>
   );
