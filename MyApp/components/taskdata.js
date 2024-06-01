@@ -5,15 +5,28 @@ const Taskdata = [
 	  {
 		name: "Web Development",
 	  },
+	  { name: "Submit Assignment" },
 	  {
-		name: "Push Ups",
-	  },
+		 name: "Attend Lecture" },
 	  {
-		name: "Washing",
-	  },
+		 name: "Review Lecture Notes" },
 	  {
-		name: "Clean Out the Fridge",
-	  },
+		 name: "Read Research Paper" },
+	  {
+		 name: "Prepare for Quiz" },
+	  {
+		 name: "Work on Group Project" },
+	  {
+		 name: "Meet with Advisor" },
+	  {
+		 name: "Visit Library" },
+	  {
+		 name: "Write Essay Draft" },
+	  {
+		 name: "Edit Research Paper" },
+	  {
+		 name: "Prepare for Presentation" },
+
 ]
 
 export default Taskdata

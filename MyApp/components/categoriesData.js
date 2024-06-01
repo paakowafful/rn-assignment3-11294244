@@ -10,35 +10,36 @@ const Categoriesdata = [
 		image: require("../assets/Study.png"), 
 	  },
 	  {
-		name: "Exercise",
-		taskCount: 12,
-		image: require("../assets/Exercise.png"), 
+		name: "Code",
+		taskCount: 8,
+		image: require("../assets/Code.jpeg"),
 	  },
 	  {
-		name: "Study",
-		taskCount: 5,
-		image: require("../assets/Study.png"), 
+		name: "Cook",
+		taskCount: 3,
+		image: require("../assets/Cook.jpeg"),
 	  },
 	  {
-		name: "Exercise",
-		taskCount: 12,
-		image: require("../assets/Exercise.png"), 
+		name: "Read",
+		taskCount: 2,
+		image: require("../assets/Read.jpeg"),
 	  },
 	  {
-		name: "Study",
-		taskCount: 5,
-		image: require("../assets/Study.png"), 
+		name: "Work",
+		taskCount: 10,
+		image: require("../assets/Work.jpeg"),
 	  },
 	  {
-		name: "Exercise",
-		taskCount: 12,
-		image: require("../assets/Exercise.png"), 
+		name: "Shop",
+		taskCount: 4,
+		image: require("../assets/Shop.jpeg"),
 	  },
 	  {
-		name: "Study",
-		taskCount: 5,
-		image: require("../assets/Study.png"), 
+		name: "Relax",
+		taskCount: 1,
+		image: require("../assets/Relax.jpeg"),
 	  },
+	
 ]
 
 export default Categoriesdata;
